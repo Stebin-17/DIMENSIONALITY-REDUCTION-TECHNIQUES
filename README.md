@@ -8,11 +8,33 @@ Linear Discriminant Analysis or Normal Discriminant Analysis or Discriminant Fun
 
 <h2>OBJECTIVES </h2>
 
-- Perform PCA and LDA on Breast Cancer Dataset, write down your obsevations. While loading, use the toy dataset available in SKLearn (load_breast_cancer)
+**- Perform PCA and LDA on Breast Cancer Dataset, write down your obsevations. While loading, use the toy dataset available in SKLearn (load_breast_cancer)**
 
-- Illustrate the effect of changing various method parameters of PCA and LDA. Compare the accuracies, and provide visualizations and interpretations for the evaluation metrices.
+**- Illustrate the effect of changing various method parameters of PCA and LDA. Compare the accuracies, and provide visualizations and interpretations for the evaluation metrices.**
 
-- "PCA could be used in applications such as Image Processing, to reduce the complexity of data and improve performance or to compress images". Justify this statement with your own findings.
+**- "PCA could be used in applications such as Image Processing, to reduce the complexity of data and improve performance or to compress images". Justify this statement with your own findings.**
 
+
+<h2>References </h2>
+
+PCA
+
+- https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.PCA.html
+- https://towardsdatascience.com/principal-component-analysis-for-breast-cancer-data-with-r-and-python-b312d28e911f
+- https://www.kaggle.com/jahirmorenoa/pca-to-the-breast-cancer-data-set https://www.youtube.com/watch?v=e2sM7ccaA9c&ab_channel=DigitalSreeni
+- https://www.datacamp.com/community/tutorials/principal-component-analysis-in-python
+- https://towardsdatascience.com/dimensionality-reduction-of-a-color-photo-splitting-into-rgb-channels-using-pca-algorithm-in-python-ba01580a1118
+- https://www.kaggle.com/mirzarahim/introduction-to-pca-image-compression-example
+- https://github.com/gtraskas/breast_cancer_prediction/blob/master/breast_cancer.ipynb
+
+LDA
+
+- http://scikit-learn.org/stable/modules/generated/sklearn.discriminant_analysis.LinearDiscriminantAnalysis.html
+- https://machinelearningmastery.com/linear-discriminant-analysis-with-python/
+- https://towardsdatascience.com/linear-discriminant-analysis-in-python-76b8b17817c2
+- https://www.mygreatlearning.com/blog/linear-discriminant-analysis-or-lda/
+- https://www.geeksforgeeks.org/ml-linear-discriminant-analysis/
+
+#
 
 
